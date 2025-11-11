@@ -1,6 +1,7 @@
 # Triple Espresso Specialty Coffee Shop Website
 
 # Description and Functionality
+
 Coffee shop website will serve Menu and table Reservation System.
 
 Customer can see different recipes of coffee.
@@ -15,6 +16,7 @@ Hours:
 Monday – Friday (10:00 – 19:00)
 Saturday – Sunday (11:00 – 18:00)
 
+Customer can book a table for guests.
 
 # Technologies and Techniques Used
 
@@ -26,6 +28,7 @@ Flexbox and Positioning relative and absolute used to arrange the elements.
 
 iframe tag used for embeding videos from youtube.com.
 
+Forms are used to acquire orders and to book a table.
 
 # Project images
 
@@ -36,3 +39,5 @@ background_header.svg used as a header page background.
 inside_coffee_shop.svg used as a main image of header page.
 
 background_recipes.svg used as recipes page background.
+
+background_reservation.svg used as reservation page background.
