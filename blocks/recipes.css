@@ -1,7 +1,7 @@
 .recipes {
   background: center / cover no-repeat #0a2750
     url(../images/background_recipes.svg);
-  padding: 100px 0 215px 80px;
+  padding: 100px 80px 215px;
   color: #fff;
   font-family: Inter, Arial, sans-serif;
   font-size: 20px;
